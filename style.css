@@ -1,0 +1,37 @@
+/* Cascating Stylesheet */
+html, 
+body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    color: #e4ffe4;
+}
+
+main {
+    background: url(images/Background.jpg);
+    width: 415px;
+    height: 812px;
+}
+
+.conteiner {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+a {
+    color: rgb(184, 250, 1);
+    text-decoration: none
+}
